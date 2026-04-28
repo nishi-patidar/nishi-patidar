@@ -2,7 +2,7 @@
 
 ## I'm Nishi Patidar
  
-## CSE student | Developer| Designer | Orchestrator
+## CSE student | Developer| Designer 
 
 Frontend Developer specializing in the MERN stack and TypeScript, focused on building production-ready applications with aesthetic, high-impact UI/UX design. Currently pursuing a B.Tech at the Acropolis Institute of Technology and Research (AITR), Indore.
 

@@ -11,9 +11,13 @@ I am a developer who bridges the gap between clean code and elegant design. I en
 
 ## 💻 Tech Stack
 PROGRAMMING LANGUAGES: C, C++, Java, Python
+
 FRONTEND: React.js, TypeScript,    Tailwind CSS, HTML/CSS 
+
 BACKEND: Node.js, Express.js 
+
 DATABASE: MongoDB, MySQL 
+
 TOOLS: Git/GitHub, Vercel
 
 ## 📂 Featured Projects

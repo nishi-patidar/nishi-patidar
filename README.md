@@ -31,7 +31,7 @@ Web Development Intern | Bharat Economic Forum Event Manager | Google Developer 
 📫 Get In Touch
 LinkedIn: https://www.linkedin.com/in/nishi-patidar
 
-GitHub: nishi-patidar
+GitHub: https://github.com/nishi-patidar
 
 Email: 27nishipatidar@gmail.com
 

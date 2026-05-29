@@ -35,7 +35,15 @@ A technical tool that visualizes GitHub profile metrics and developer activity t
 
 
 ## 💼 Experience & Leadership
-Web Development Intern | Bharat Economic Forum Event Manager | Google Developer Student Clubs (GDSC) - AITR International Service Director | Rotaract Club of Acropolis Professionals
+• *Full-Stack Developer Intern* - Extrnxt Labs Pvt Ltd (Current)
+
+• *Web Development Intern* - Bharat Economic Forum 
+
+• *Campus Ambassador* - TedxIIT Indore (Current)
+
+• *Event Manager* - Google Developer Student Clubs (GDSC) - AITR (Current)
+
+• *International Service Director* - Rotaract Club of Acropolis Professionals
 
 ## 📫 Get In Touch
 LinkedIn: https://www.linkedin.com/in/nishi-patidar

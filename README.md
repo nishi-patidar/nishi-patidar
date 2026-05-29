@@ -20,17 +20,17 @@ DATABASE: MongoDB, MySQL
 TOOLS: Git/GitHub, Vercel
 
 ## 📂 Featured Projects
-[sol.]
+• [sol.]
 A mobile-optimized, aesthetic mood and habit-tracking application featuring clean, minimal UI and seamless user experience.
 
-[Itinerary App].
+• [Itinerary App].
 A responsive single-page React application that helps users create, organize, and manage their travel itineraries and budgets in real-time.
 
 
-[Healthcare+]
+• [Healthcare+]
 An integrated healthcare platform prototype designed for rapid emergency response and AI-driven symptom detection.
 
-[Git Gaze]
+• [Git Gaze]
 A technical tool that visualizes GitHub profile metrics and developer activity through interactive, easy-to-read charts.
 
 

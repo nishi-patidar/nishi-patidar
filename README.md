@@ -1,5 +1,5 @@
 <div align="center">
-  ## <span style="color: #FFB6C1;"Nishi Patidar</span>
+<span style="color: #FFB6C1;</span>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Creative%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=FFFFFF" alt="header" />
 
@@ -28,7 +28,7 @@
 
 ## <span style="color: #FFB6C1;">👨‍💻 About Me</span>
 
-I am a final-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack** and **TypeScript** ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
+I am a second-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack** and **TypeScript** ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
 
 *   🧠 **Core Expertise:** Advanced MERN Stack Development, TypeScript, and aesthetic UI/UX design.
 *   💻 **Problem Solving:** Data Structures & Algorithms, Competitive Programming on **LeetCode**.
@@ -170,12 +170,6 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 
 <div align="center">
   <a href="https://leetcode.com/u/nishipatidar_27"><img src="https://img.shields.io/badge/LeetCode-nishipatidar_27-110D18?style=for-the-badge&logo=leetcode&logoColor=FFB6C1&borderColor=FFB6C1" alt="LeetCode" /></a>
-  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/HackerRank-Profile-110D18?style=for-the-badge&logo=hackerrank&logoColor=FFB6C1&borderColor=FFB6C1" alt="HackerRank" /></a>
-  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/CodeChef-Profile-110D18?style=for-the-badge&logo=codechef&logoColor=FFB6C1&borderColor=FFB6C1" alt="CodeChef" /></a>
-  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/CodeForces-Profile-110D18?style=for-the-badge&logo=codeforces&logoColor=FFB6C1&borderColor=FFB6C1" alt="CodeForces" /></a>
-</div>
-
----
 
 ## <span style="color: #FFB6C1;">📊 GitHub Analytics</span>
 
@@ -186,13 +180,6 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishi-patidar&layout=compact&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&border_color=FFB6C1" alt="Top Languages" />
 </div>
 
----
-
-## <span style="color: #FFB6C1;">🏆 GitHub Trophies</span>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishi-patidar&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
 
 ---
 
@@ -204,13 +191,7 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 
 ---
 
-## <span style="color: #FFB6C1;">🐍 Contribution Snake</span>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nishi-patidar/nishi-patidar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
 
 ## <span style="color: #FFB6C1;">🎯 Current Focus</span>
 

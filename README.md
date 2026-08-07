@@ -174,10 +174,10 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 ## <span style="color: #FFB6C1;">📊 GitHub Analytics</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishi-patidar&show_icons=true&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&icon_color=FF1493&border_color=FFB6C1&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishi-patidar&theme=basic&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishi-patidar&show_icons=true&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&icon_color=FF1493&border_color=FFB6C1&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishi-patidar&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishi-patidar&layout=compact&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&border_color=FFB6C1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishi-patidar&layout=compact&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&border_color=FFB6C1" alt="Top Languages" />
 </div>
 
 

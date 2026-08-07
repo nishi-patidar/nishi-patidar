@@ -1,5 +1,5 @@
 <div align="center">
-  ## <span style="color: #FFB6C1;">🎀 Nishi Patidar</span>
+  ## <span style="color: #FFB6C1;"Nishi Patidar</span>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Creative%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=FFFFFF" alt="header" />
 

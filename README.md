@@ -1,1 +1,228 @@
-[file-tag: code-generated-file-17a6903c-d53f-43b6-9eca-c9641c020e98]
+<div align="center">
+  ## <span style="color: #FFB6C1;">🎀 Nishi Patidar</span>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Creative%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=FFFFFF" alt="header" />
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F4CCCC&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Experiences;CSE+Student+%40+AITR;UI%2FUX+Designer;Competitive+Programmer;Developing+Enterprise+Solutions" alt="Typing SVG" /></a>
+  
+  <br />
+
+  <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-110D18?style=for-the-badge&logo=academia&logoColor=FFB6C1&borderColor=FFB6C1" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Indore,_India-110D18?style=for-the-badge&logo=googlemaps&logoColor=FFB6C1&borderColor=FFB6C1" alt="Location" /></a>
+  <br />
+  <a href="https://nishi-patidar-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-110D18?style=for-the-badge&logo=dev.to&logoColor=FFB6C1&borderColor=FFB6C1" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/LinkedIn-110D18?style=for-the-badge&logo=linkedin&logoColor=FFB6C1&borderColor=FFB6C1" alt="LinkedIn" /></a>
+  <a href="mailto:27nishipatidar@gmail.com"><img src="https://img.shields.io/badge/Email-110D18?style=for-the-badge&logo=gmail&logoColor=FFB6C1&borderColor=FFB6C1" alt="Email" /></a>
+  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/GitHub-110D18?style=for-the-badge&logo=github&logoColor=FFB6C1&borderColor=FFB6C1" alt="GitHub" /></a>
+  
+  <br />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=nishi-patidar&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nishi-patidar?label=Followers&style=flat-square&color=ffb6c1" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nishi-patidar?style=flat-square&color=ffb6c1" alt="Stars" />
+
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">👨‍💻 About Me</span>
+
+I am a final-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack** and **TypeScript** ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
+
+*   🧠 **Core Expertise:** Advanced MERN Stack Development, TypeScript, and aesthetic UI/UX design.
+*   💻 **Problem Solving:** Data Structures & Algorithms, Competitive Programming on **LeetCode**.
+*   🚀 **Product Mindset:** Product engineering and scaling solutions focused on business value.
+*   📫 **Open To:** Full-stack development opportunities and open-source contributions.
+
+---
+
+## <span style="color: #FFB6C1;">🛠️ Tech Stack</span>
+
+### Languages
+<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js&theme=dark" alt="Languages" /></a>
+
+### Frontend
+<a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css&theme=dark" alt="Frontend" /></a>
+
+### Backend & Databases
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend" /></a>
+
+### Tools & Deployment
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Tools" /></a>
+
+---
+
+## <span style="color: #FFB6C1;">🔧 Core Competencies</span>
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **MERN Stack Development** | Advanced | React.js, Node.js, Express, MongoDB, RESTful APIs |
+| **UI / UX Design** | Advanced | Responsive layouts, high-impact interface design, Tailwind CSS |
+| **Problem Solving** | Advanced | Data Structures & Algorithms, Competitive Programming on **LeetCode** |
+| **Cloud & Deployment** | Intermediate | Docker, GitHub Actions, CI/CD pipelines, Vercel |
+
+---
+
+## <span style="color: #FFB6C1;">🌟 Featured Projects</span>
+
+<details>
+  <summary><b>sol.</b></summary>
+  
+  <br />
+  A mobile-optimized, aesthetic mood and habit-tracking application featuring clean, minimal UI and seamless user experience.
+
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | MERN Stack, Context API, Tailwind |
+  | **Scale** | Fully responsive Single Page Application (SPA) |
+  | **Performance** | Optimized client-side state management for low latency |
+  | **Security** | Secure user data storage with encryption |
+  | **Impact** | Improved mood tracking for 500+ users |
+  | **Repository** | [View on GitHub](https://github.com/nishi-patidar/sol) |
+</details>
+
+<details>
+  <summary><b>Itinerary App</b></summary>
+  
+  <br />
+  A responsive single-page application that helps users create, organize, and manage their travel itineraries and budgets in real-time.
+
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | React.js, Context API, Tailwind |
+  | **Scale** | Handling 1k+ trip data points |
+  | **Performance** | Optimized for fast real-time updates of multiple users |
+  | **Security** | RBAC authorization implementation |
+  | **Impact** | Reduced itinerary creation time by 25% |
+  | **Repository** | [View on GitHub](https://github.com/nishi-patidar/ItineraryApp) |
+</details>
+
+<details>
+  <summary><b>Healthcare+</b></summary>
+  
+  <br />
+  An integrated healthcare platform prototype designed for rapid emergency response and AI-driven symptom detection.
+
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | Full-Stack (MERN), Python for AI model integration |
+  | **Scale** | Large data points from patients |
+  | **Performance** | Asynchronous task processing for rapid data ingestion |
+  | **Security** | HIPAA compliance standard architecture |
+  | **Impact** | Enabled 15% reduction in response time to critical cases in simulation |
+  | **Repository** | [View on GitHub](https://github.com/nishi-patidar/healcure) |
+</details>
+
+<details>
+  <summary><b>Git Gaze</b></summary>
+  
+  <br />
+  A technical tool that visualizes GitHub profile metrics and developer activity through interactive, easy-to-read charts.
+
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | React.js, Charting libraries, GitHub Rest API |
+  | **Scale** | Processing 50+ real-time profiles per minute |
+  | **Performance** | Asynchronous data fetching with robust error handling |
+  | **Security** | Secure API key management |
+  | **Impact** | Enabled 50+ developers to evaluate their activity visually |
+  | **Repository** | [View on GitHub](https://github.com/nishi-patidar) |
+</details>
+
+---
+
+## <span style="color: #FFB6C1;">💼 Experience</span>
+
+**Full-Stack Developer Intern** @ **Extrnxt Labs Pvt Ltd**
+*Current*
+
+Leading a cross-functional engineering team to build scalable web applications from scratch using MERN Stack and TypeScript. Focus on robust code quality and security.
+
+`#React` `#TypeScript` `#NodeJS` `#MongoDB` `#AWS`
+
+<br />
+
+**Web Development Intern** @ **Bharat Economic Forum**
+*Previous*
+
+Implemented responsive frontends using React.js. Optimized frontend performance of core platform features.
+
+`#JavaScript` `#React` `#HTML` `#CSS` `#RESTfulAPIs`
+
+---
+
+## <span style="color: #FFB6C1;">🏆 Achievements & Leadership</span>
+
+<div align="center">
+
+| Role / Recognition | Organization & Details |
+| :---: | :--- |
+| 🗣️ **Campus Ambassador** | TedxIIT Indore (Current) - Representing TEDx values and coordinating campus-wide engagement. |
+| 🛠️ **Event Manager** | Google Developer Student Clubs (GDSC) - AITR (Current) - Leading a core engineering team to manage and scale technical events. |
+| 🌍 **International Service Director** | Rotaract Club of Acropolis Professionals - Organizing large-scale international outreach initiatives and cross-club events. |
+
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">💻 Coding Profiles</span>
+
+<div align="center">
+  <a href="https://leetcode.com/u/nishipatidar_27"><img src="https://img.shields.io/badge/LeetCode-nishipatidar_27-110D18?style=for-the-badge&logo=leetcode&logoColor=FFB6C1&borderColor=FFB6C1" alt="LeetCode" /></a>
+  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/HackerRank-Profile-110D18?style=for-the-badge&logo=hackerrank&logoColor=FFB6C1&borderColor=FFB6C1" alt="HackerRank" /></a>
+  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/CodeChef-Profile-110D18?style=for-the-badge&logo=codechef&logoColor=FFB6C1&borderColor=FFB6C1" alt="CodeChef" /></a>
+  <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/CodeForces-Profile-110D18?style=for-the-badge&logo=codeforces&logoColor=FFB6C1&borderColor=FFB6C1" alt="CodeForces" /></a>
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">📊 GitHub Analytics</span>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishi-patidar&show_icons=true&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&icon_color=FF1493&border_color=FFB6C1&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishi-patidar&theme=basic&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishi-patidar&layout=compact&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&border_color=FFB6C1" alt="Top Languages" />
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">🏆 GitHub Trophies</span>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishi-patidar&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">📈 Contribution Activity</span>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishi-patidar&bg_color=110D18&color=FFB6C1&line=F4CCCC&point=FFFFFF&area=true&hide_border=false&hide_title=false" alt="Activity Graph" />
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">🐍 Contribution Snake</span>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nishi-patidar/nishi-patidar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## <span style="color: #FFB6C1;">🎯 Current Focus</span>
+
+```yaml
+Current_Focus:
+  Learning: 
+    - "Advanced TypeScript Design Patterns"
+    - "System Design & Architecture Optimization"
+  Building: 
+    - "Scalable MERN Applications with real-time features"
+  Exploring: 
+    - "Large Language Models & AI integration"
+  Open_To: 
+    - "Full-Stack Roles"
+    - "Open Source development opportunities"

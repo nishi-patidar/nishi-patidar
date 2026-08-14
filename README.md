@@ -175,7 +175,7 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 
 <div align="center">
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishi-patidar&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nishi-patidar&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
   <br />
 
 

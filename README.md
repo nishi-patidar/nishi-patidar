@@ -182,10 +182,10 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 
 ---
 
-## <span style="color: #FFB6C1;">📈 Complete Contribution Graph</span>
+## <span style="color: #FFB6C1;">📈 Contribution Activity (Full Year)</span>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FFB6C1/nishi-patidar" alt="Nishi's Complete Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishi-patidar&bg_color=110D18&color=FFB6C1&line=F4CCCC&point=FFFFFF&area=true&hide_border=false&hide_title=false&days=365" alt="Activity Graph" />
 </div>
 
 ---

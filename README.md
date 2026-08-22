@@ -49,7 +49,7 @@ I am a second-year Computer Science Engineering student and a creative software 
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend" /></a>
 
 ### Tools & Deployment
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=unity,git,github,vercel,netlify,render&theme=dark" alt="Tools" /></a>
 
 ---
 

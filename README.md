@@ -7,7 +7,7 @@
   
   <br />
 
-  <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-110D18?style=for-the-badge&logo=academia&logoColor=FFB6C1&borderColor=FFB6C1" alt="" /></a>
+  <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-110D18?style=for-the-badge&logo&logoColor=FFB6C1&borderColor=FFB6C1" alt="" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Indore,_India-110D18?style=for-the-badge&logo=googlemaps&logoColor=FFB6C1&borderColor=FFB6C1" alt="Location" /></a>
   <br />
   <a href="https://nishi-patidar-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-110D18?style=for-the-badge&logo=dev.to&logoColor=FFB6C1&borderColor=FFB6C1" alt="Portfolio" /></a>

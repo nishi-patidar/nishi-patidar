@@ -137,7 +137,7 @@ I am a second-year Computer Science Engineering student and a creative software 
 **Full-Stack Developer Intern** @ **Extrnxt Labs Pvt Ltd**
 *Current*
 
-Leading a cross-functional engineering team to build scalable web applications from scratch using MERN Stack and TypeScript. Focus on robust code quality and security.
+Leading a cross-functional engineering team to build stimulation based applications and solutions within Unity and Python, fully functional web application and designing through mern stack
 
 `#React` `#TypeScript` `#NodeJS` `#MongoDB` `#AWS`
 
@@ -146,7 +146,7 @@ Leading a cross-functional engineering team to build scalable web applications f
 **Web Development Intern** @ **Bharat Economic Forum**
 *Previous*
 
-Implemented responsive frontends using React.js. Optimized frontend performance of core platform features.
+Implemented responsive frontends using React.js. Optimized frontend performance of core platform features for the Bharat Economis Website
 
 `#JavaScript` `#React` `#HTML` `#CSS` `#RESTfulAPIs`
 

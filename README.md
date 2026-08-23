@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-110D18?style=for-the-badge&logo&logoColor=FFB6C1&borderColor=FFB6C1" alt="" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Indore,_India-110D18?style=for-the-badge&logo=googlemaps&logoColor=FFB6C1&borderColor=FFB6C1" alt="Location" /></a>
   <br />
-  <a href="https://nishi-patidar-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-110D18?style=for-the-badge&logo=dev.to&logoColor=FFB6C1&borderColor=FFB6C1" alt="Portfolio" /></a>
+  <a href="https://nishi-patidar-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-110D18?style=for-the-badge&logo&logoColor=FFB6C1&borderColor=FFB6C1" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/LinkedIn-110D18?style=for-the-badge&logo=linkedin&logoColor=FFB6C1&borderColor=FFB6C1" alt="LinkedIn" /></a>
   <a href="mailto:27nishipatidar@gmail.com"><img src="https://img.shields.io/badge/Email-110D18?style=for-the-badge&logo=gmail&logoColor=FFB6C1&borderColor=FFB6C1" alt="Email" /></a>
   <a href="https://github.com/nishi-patidar"><img src="https://img.shields.io/badge/GitHub-110D18?style=for-the-badge&logo=github&logoColor=FFB6C1&borderColor=FFB6C1" alt="GitHub" /></a>

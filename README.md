@@ -41,7 +41,35 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
 ## <span style="color: #FFB6C1;">🛠️ Tech Stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,react,tailwind,html,css,nodejs,express,mongodb,mysql,unity,git,github,vercel,figma&theme=dark&perline=10" alt="Tech Stack Grid" />
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" alt="C" /><br><sub>C</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++" /><br><sub>C++</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" /><br><sub>Java</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" /><br><sub>Python</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" /><br><sub>React.js</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind" /><br><sub>Tailwind</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML" /><br><sub>HTML5</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS" /><br><sub>CSS3</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="NodeJS" /><br><sub>Node.js</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express" /><br><sub>Express</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" /><br><sub>MySQL</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="48" alt="Unity" /><br><sub>Unity</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" /><br><sub>Git</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br><sub>GitHub</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" /><br><sub>Vercel</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br><sub>Figma</sub></td>
+      <td align="center" width="96"></td>
+      <td align="center" width="96"></td>
+    </tr>
+  </table>
 </div>
 
 ---

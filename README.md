@@ -140,7 +140,6 @@ I am a second-year Computer Science Engineering student and a creative software 
 
 Leading a cross-functional engineering team to build stimulation based applications and solutions within Unity and Python, fully functional web application and designing through mern stack
 
-`#React` `#TypeScript` `#NodeJS` `#MongoDB` `#AWS`
 
 <br />
 
@@ -149,21 +148,7 @@ Leading a cross-functional engineering team to build stimulation based applicati
 
 Implemented responsive frontends using React.js. Optimized frontend performance of core platform features for the Bharat Economis Website
 
-`#JavaScript` `#React` `#HTML` `#CSS` `#RESTfulAPIs`
-
 ---
-
-## <span style="color: #FFB6C1;">🏆 Achievements & Leadership</span>
-
-<div align="center">
-
-| Role / Recognition | Organization & Details |
-| :---: | :--- |
-| 🗣️ **Campus Ambassador** | TedxIIT Indore (Current) - Representing TEDx values and coordinating campus-wide engagement. |
-| 🛠️ **Event Manager** | Google Developer Student Clubs (GDSC) - AITR (Current) - Leading a core engineering team to manage and scale technical events. |
-| 🌍 **International Service Director** | Rotaract Club of Acropolis Professionals - Organizing large-scale international outreach initiatives and cross-club events. |
-
-</div>
 
 ---
 

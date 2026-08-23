@@ -175,19 +175,3 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 
 ---
 
-
-
-## <span style="color: #FFB6C1;">🎯 Current Focus</span>
-
-```yaml
-Current_Focus:
-  Learning: 
-    - "Advanced TypeScript Design Patterns"
-    - "System Design & Architecture Optimization"
-  Building: 
-    - "Scalable MERN Applications with real-time features"
-  Exploring: 
-    - "Large Language Models & AI integration"
-  Open_To: 
-    - "Full-Stack Roles"
-    - "Open Source development opportunities"

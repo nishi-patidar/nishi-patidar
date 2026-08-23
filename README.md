@@ -40,17 +40,9 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
 
 ## <span style="color: #FFB6C1;">🛠️ Tech Stack</span>
 
-### Languages
-<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js&theme=dark" alt="Languages" /></a>
-
-### Frontend
-<a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css&theme=dark" alt="Frontend" /></a>
-
-### Backend & Databases
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend" /></a>
-
-### Tools & Deployment
-<a href="#"><img src="https://skillicons.dev/icons?i=unity,git,github,vercel,netlify,render&theme=dark" alt="Tools" /></a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,react,tailwind,html,css,nodejs,express,mongodb,mysql,unity,git,github,vercel,figma&theme=dark&perline=10" alt="Tech Stack Grid" />
+</div>
 
 ---
 

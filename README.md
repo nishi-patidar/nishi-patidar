@@ -164,13 +164,13 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 <div align="center">
   <a href="https://leetcode.com/u/nishipatidar_27"><img src="https://img.shields.io/badge/LeetCode-nishipatidar_27-110D18?style=for-the-badge&logo=leetcode&logoColor=FFB6C1&borderColor=FFB6C1" alt="LeetCode" /></a>
 
-## <span style="color: #FFB6C1;">📊 GitHub Analytics</span>
+## <span style="color: #FFB6C1;">📈 Contribution Activity</span>
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=nishi-patidar&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" />
-  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishi-patidar&bg_color=110D18&color=FFB6C1&line=F4CCCC&point=FFFFFF&area=true&hide_border=false&hide_title=false" alt="Activity Graph" width="700" />
+</div>
 
+---
 
 
 ---

@@ -54,15 +54,6 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
 
 ---
 
-## <span style="color: #FFB6C1;">🔧 Core Competencies</span>
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **MERN Stack Development** | Advanced | React.js, Node.js, Express, MongoDB, RESTful APIs |
-| **UI / UX Design** | Advanced | Responsive layouts, high-impact interface design, Tailwind CSS |
-| **Problem Solving** | Advanced | Data Structures & Algorithms, Competitive Programming on **LeetCode** |
-| **Cloud & Deployment** | Intermediate | Docker, GitHub Actions, CI/CD pipelines, Vercel |
-
 ---
 
 ## <span style="color: #FFB6C1;">🌟 Featured Projects</span>

@@ -28,12 +28,12 @@
 
 ## <span style="color: #FFB6C1;">👨‍💻 About Me</span>
 
-I am a second-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack** and **TypeScript** ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
+I am a second-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack**  ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
 
-*   🧠 **Core Expertise:** Advanced MERN Stack Development, TypeScript, and aesthetic UI/UX design.
+*   🧠 **Core Expertise:** Advanced MERN Stack Development, Java, Unity, and aesthetic UI/UX design.
 *   💻 **Problem Solving:** Data Structures & Algorithms, Competitive Programming on **LeetCode**.
 *   🚀 **Product Mindset:** Product engineering and scaling solutions focused on business value.
-*   📫 **Open To:** Full-stack development opportunities and open-source contributions.
+*   📫 **Open To:** Full-stack development, Designing web application opportunities and open-source contributions.
 
 ---
 

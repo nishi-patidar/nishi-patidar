@@ -26,7 +26,7 @@
 
 ---
 
-## <span style="color: #FFB6C1;">👨‍💻 About Me</span>
+## <span style="color: #FFB6C1;">👨‍💻 Meet Me</span>
 
 I am a second-year Computer Science Engineering student and a creative software developer bridging the gap between clean, scalable code and elegant UI/UX design. Pursuing my B.Tech at Acropolis Institute of Technology and Research (AITR), Indore, my core focus is on delivering seamless, high-impact web applications within the **MERN Stack**  ecosystems. I also enjoy competitive programming on platforms like **LeetCode** and building highly functional, aesthetically pleasing solutions.
 

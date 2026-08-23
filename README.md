@@ -164,6 +164,17 @@ Implemented responsive frontends using React.js. Optimized frontend performance 
 <div align="center">
   <a href="https://leetcode.com/u/nishipatidar_27"><img src="https://img.shields.io/badge/LeetCode-nishipatidar_27-110D18?style=for-the-badge&logo=leetcode&logoColor=FFB6C1&borderColor=FFB6C1" alt="LeetCode" /></a>
 
+  ## <span style="color: #FFB6C1;">📊 GitHub Analytics</span>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishi-patidar&show_icons=true&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&icon_color=FF1493&border_color=FFB6C1&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishi-patidar&theme=basic&background=110D18&ring=FFB6C1&fire=FF1493&currStreakNum=F4CCCC&sideNums=F4CCCC&currStreakLabel=FFB6C1&sideLabels=FFB6C1&dates=F4CCCC&border=FFB6C1" alt="GitHub Streak" height="150" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishi-patidar&layout=compact&theme=basic&bg_color=110D18&title_color=FFB6C1&text_color=F4CCCC&border_color=FFB6C1" alt="Top Languages" height="150" />
+</div>
+
+---
+
 ## <span style="color: #FFB6C1;">📈 Contribution Activity</span>
 
 <div align="center">

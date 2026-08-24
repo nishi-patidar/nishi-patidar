@@ -144,7 +144,7 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
 
 ## <span style="color: #FFB6C1;">💼 Experience</span>
 
-**Full-Stack Developer Intern** @ **Extrnxt Labs Pvt Ltd**
+**Full-Stack Developer Intern** @ **Exrnxt Labs Pvt. Ltd.**
 *Current*
 
 Leading a cross-functional engineering team to build stimulation based applications and solutions within Unity and Python, fully functional web application and designing through mern stack

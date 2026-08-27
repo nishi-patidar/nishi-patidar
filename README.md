@@ -66,12 +66,11 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" /><br><sub>Vercel</sub></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br><sub>Figma</sub></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Netlify" /><br><sub>Netlify</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=render&theme=dark" width="48" alt="Render" /><br><sub>Render</sub></td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/white" width="48" alt="Render" /><br><sub>Render</sub></td>
     </tr>
   </table>
 </div>
 
----
 
 ---
 

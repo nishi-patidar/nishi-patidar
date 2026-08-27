@@ -37,7 +37,6 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
 *   📫 **Open To:** Full-Stack roles, Web Design opportunities, and Open Source.
 
 ---
-
 ## <span style="color: #FFB6C1;">🛠️ Tech Stack</span>
 
 <div align="center">
@@ -66,11 +65,13 @@ I am a 2nd-year CSE student at AITR, Indore, specializing in full-stack developm
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br><sub>GitHub</sub></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" /><br><sub>Vercel</sub></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br><sub>Figma</sub></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Netlify" /><br><sub>Netlify</sub></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=render&theme=dark" width="48" alt="Render" /><br><sub>Render</sub></td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 

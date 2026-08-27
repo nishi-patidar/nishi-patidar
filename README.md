@@ -3,6 +3,13 @@
 
 <div align="center">
 
+<div align="center">
+
+
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F4CCCC&center=true&vCenter=true&width=500&lines=Building+Aesthetic+Experiences;CSE+Student+%40+AITR;UI%2FUX+Designer;Competitive+Programmer;Developing+Enterprise+Solutions" alt="Typing SVG" /></a>
+  
+  <br />
 
   <a href="https://linkedin.com/in/nishi-patidar"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-110D18?style=flat-square&logo&logoColor=FFB6C1&borderColor=FFB6C1" alt="" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Indore,_India-110D18?style=flat-square&logo=googlemaps&logoColor=FFB6C1&borderColor=FFB6C1" alt="Location" /></a>
@@ -19,14 +26,8 @@
   <img src="https://komarev.com/ghpvc/?username=nishi-patidar&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nishi-patidar?label=Followers&style=flat-square&color=ffb6c1" alt="Followers" />
   <img src="https://img.shields.io/github/stars/nishi-patidar?style=flat-square&color=ffb6c1" alt="Stars" />
-  
-  <br />
-  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=nishi-patidar&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nishi-patidar?label=Followers&style=flat-square&color=ffb6c1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nishi-patidar?style=flat-square&color=ffb6c1" alt="Stars" />
-
+</div>
 </div>
 
 ---

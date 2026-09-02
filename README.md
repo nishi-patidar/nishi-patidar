@@ -28,7 +28,7 @@
 
 ## <span style="color: #FFB6C1;">👨‍💻 Know Me</span>
 
-I am a 2nd-year CSE student at AITR, Indore, specializing in Full-Stack Development. I bridge the gap between clean, scalable architecture and elegant user interfaces, while actively honing my algorithmic skills through competitive programming.
+I am a 3rd-year CSE student at AITR, Indore, specializing in Full-Stack Development. I bridge the gap between clean, scalable architecture and elegant user interfaces, while actively honing my algorithmic skills through competitive programming.
 
 *   🧠 **Expertise:** MERN Stack, Java, Unity, and aesthetic UI/UX Design.
 *   💻 **Problem Solving:** DSA & Competitive Programming (LeetCode).
